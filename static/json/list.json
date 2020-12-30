@@ -1,0 +1,12 @@
+{
+    "list":[
+        {"id": 1, "title":"MiTAC","url":"../static/images/li_ping.png","address": "堤頂大道"},
+    ],
+    "list2":[
+        {"id": 0, "title":"全部"},
+    ],
+    "list3":[
+        {"id": 0,"title": "全部"},
+    ],
+    "pages": 3
+}
